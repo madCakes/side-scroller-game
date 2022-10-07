@@ -1,0 +1,11 @@
+{
+  "name": "self-scroller-game",
+  "version": "1.0.0",
+  "description": "self scroller game for loading screens",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madCakes",
+  "license": "ISC"
+}
